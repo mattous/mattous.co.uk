@@ -94,7 +94,3 @@ twitter = "mattous"
         identifier = "github"
         name = "GitHub"
         url = "https://github.com/mattous"
-      [[languages.en.menu.main]]
-        identifier = "twitch"
-        name = "Twitch"
-        url = "https://www.twitch.tv/m4ttous"
