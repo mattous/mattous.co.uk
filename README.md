@@ -14,7 +14,7 @@ It runs on [Cloudflare pages](https://pages.cloudflare.com/)
 
 `brew install hugo`
 
-`git clone https://github.com/mattous/hugo.git`
+`git clone https://github.com/mattous/mattous.co.uk.git`
 
 `cd mattous.co.uk`
 

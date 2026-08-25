@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-theme = "terminal"
+theme = "re-terminal"
 paginate = 5
 enableEmoji = true
 
