@@ -1,6 +1,6 @@
-# mattous.tk
+# mattous.co.uk
 
-This is the code that makes my blog/website work. You can see the website here: [mattous.tk](https://mattous.tk)
+This is the code that makes my blog/website work. You can see the website here: [mattous.co.uk](https://mattous.co.uk)
 
 It's using the [Hugo](https://gohugo.io/) framework. 
 
@@ -16,7 +16,7 @@ It runs on [Cloudflare pages](https://pages.cloudflare.com/)
 
 `git clone https://github.com/mattous/hugo.git`
 
-`cd mattous.tk`
+`cd mattous.co.uk`
 
 `hugo server`
 
