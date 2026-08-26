@@ -94,3 +94,7 @@ twitter = "mattous"
         identifier = "github"
         name = "GitHub"
         url = "https://github.com/mattous"
+      [[languages.en.menu.main]]
+        identifier = "archive"
+        name = "Archive"
+        url = "/archive"
