@@ -12,6 +12,8 @@ For those that don't know, the Civilisation games allow you to run a civilisatio
 
 Another area that's been improved a lot is the graphics — it's all 3D now and there's all kinds of stuff going on all the time that you can see. For example you zoom in on a mine and you can see the little mine carts bringing stuff out of the mountains, you can see the sheep and cows moving around in the fields and you can see your cities grow in size and the improvements and wonders that you build in them. So if you're looking for a good strategy game then I highly recommend this, no complaints really only that it's too dammed addictive.
 
+{{< image src="/images/archive/mattous-blogous/civ4.png" alt="Civ 4" position="center" style="border-radius: 8px;" >}}
+
 A few days ago I also got my first placement application to fill out. Next year I have the option of doing a year's paid placement somewhere which I'm hoping to do providing I can find a decent one. The application I got is for the Ministry of Defence statistics department in London. It sounds incredibly boring and I really don't want to do it. So I'm gonna fill out the application (which we have to do) tomorrow and try to do a bad job of it and just hope that something better comes along soon.
 
 Also tomorrow Marie-Claire is coming to stay for the weekend and I'm excited about seeing her again. We didn't see each other very much at all over the summer because she was up in Leeds working and I was down in Kent so it'll be great to catch up. That probably means that there will be no blogging either which is why this one is extra long.

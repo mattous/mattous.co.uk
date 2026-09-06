@@ -13,3 +13,5 @@ Also took a bit of a big step today and quit [World of Warcraft](http://www.wow-
 Another big bit of news is that I'm stepping down as co-leader of FM (our gaming clan). I wasn't really doing much in it anymore — Watchout has been running it all pretty much. So to let someone else have a chance (someone that actually wants to be more involved) I'm just going to step down to being a member. This will hopefully give me even more free time to do the things that I want to do because playing computer games all day everyday is fun but I need to let go of that stuff and make room for God!
 
 I just want to say big thanks to all the guys that I've played with this past year — it's been great getting to know you and I had a lot of fun. I'm not going anywhere, I'll still be around on IRC, TS and on the forums but you won't see me so much in game. No disrespect to any of you either, gaming is great but I need to spend more time IRL.
+
+{{< image src="/images/archive/mattous-blogous/mc.png" alt="Me and MC" position="center" style="border-radius: 8px;" >}}

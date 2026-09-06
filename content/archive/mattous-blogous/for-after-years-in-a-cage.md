@@ -15,3 +15,7 @@ I guess this sums up how I feel at the moment. I read this book and something in
 God has been revealing a lot of stuff to me recently and it's all pretty deep stuff that I need to do but why can't I do it? I play computer games because I'm lonely here and there is no one around. What else is there to do though? How do I fill the gap in my life that gaming will leave? What will I do? I know the answer to these questions is God. Spend time with him and let him fill that hole in my life... but that's a lot of time to spend with God, I'm sure the more time the better but... Man I dunno.
 
 I want to make this work God, I can't keep going backwards... Help me get it right God, or at least help me do it better.
+
+{{< image src="/images/archive/mattous-blogous/canada.png" alt="Wild times in Canada" position="center" style="border-radius: 8px;" >}}
+
+*Wild times in Canada.*

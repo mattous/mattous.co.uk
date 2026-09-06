@@ -13,3 +13,7 @@ I'm back home in Kent now which has been pretty cool so far. I've had a bit of a
 I've been doing a lot of looking around on the web because I've been bored and talking to my mates who still play [World of Warcraft](http://www.wow-europe.com/). Man I miss that game. I'm really tempted to start playing again in the new year. I've been saying that I'll wait for the expansion pack to come out before I install it again but the way things are going now I dunno.
 
 Anyways, Merry Christmas everyone! I hope that you get what you want and enjoy the day tomorrow!
+
+{{< image src="/images/archive/mattous-blogous/happy-couple.png" alt="Happy Couple" position="center" style="border-radius: 8px;" >}}
+
+*Matthew and Miriam cutting their wedding cake*

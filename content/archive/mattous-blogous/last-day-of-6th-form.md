@@ -8,4 +8,6 @@ draft = false
 
 Last day of 6th Form — 18th of May 2001.
 
+{{< image src="/images/archive/mattous-blogous/last-day-6th.png" alt="Last day of 6th form" position="center" style="border-radius: 8px;" >}}
+
 6th Form was the greatest!

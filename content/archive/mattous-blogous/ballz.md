@@ -12,4 +12,4 @@ I've been back at uni just over a week now and there's really not much to say. I
 
 Sony get 250,000 multi-coloured bouncy balls and start pouring them down the streets of San Francisco. First time I saw it I just thought it was some kind of special effect but when I realised that it was real I got a new found respect for Sony for doing something so crazy. The advert is in slow-motion with José González playing his song 'Heartbeats' in the background. The result is incredible and if it wasn't shot on the streets of San Francisco then you would think it was alien. Beautiful stuff.
 
-![Sony Bravia bouncy balls wallpaper](/images/archive/mattous-blogous/sony-balls.jpg)
+{{< image src="/images/archive/mattous-blogous/sony-balls.jpg" alt="Sony Bravia bouncy balls wallpaper" position="center" style="border-radius: 8px;" >}}

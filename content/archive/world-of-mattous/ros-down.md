@@ -10,8 +10,10 @@ Today I finally got an upgrade for my Red Riding Hood's Cloak from [Karazhan](ht
 
 Oh and while writing this post we had 2 tries on [RoS](http://www.wowhead.com/?npc=23418) and downed him on the second try of the day! That's 6/9 BT! Time to go farm for Hearts of Darkness! Then it's Mother Shahraz!
 
-![Shroud of Forgiveness — new cloak from Gurtogg Bloodboil](/images/archive/world-of-mattous/shroud-of-forgiveness.jpg)
+{{< image src="/images/archive/world-of-mattous/shroud-of-forgiveness.png" alt="Shroud of Forgiveness — new cloak from Gurtogg Bloodboil" position="center" style="border-radius: 8px;" >}}
+
 *My new cloak — Shroud of Forgiveness*
 
-![Reliquary of Souls defeated 10/08/08](/images/archive/world-of-mattous/ros-kill.jpg)
+{{< image src="/images/archive/world-of-mattous/ros-kill.png" alt="Reliquary of Souls defeated 10/08/08" position="center" style="border-radius: 8px;" >}}
+
 *Reliquary of Souls defeated 10/08/08*

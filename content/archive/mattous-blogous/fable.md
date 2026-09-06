@@ -12,6 +12,10 @@ These past few weeks I've been playing [Fable](http://www.microsoft.com/games/fa
 
 Back to Fable anyway — by far the best thing for me in the game is the voice acting, it's just so funny! [Lionhead Studios](http://www.lionhead.com/) are really good at this in all their games but in Fable it's classic — really extreme British accents, not the posh ones but all the other stuff: the geezers, the farmers, the stoned guys at the start! It's hilarious! The story line is ok, not great — it seems to take big jumps and I didn't really know why I was doing certain things. It also has loads of mini games like archery competitions, fist fighting, you can buy rent out and upgrade properties to make some cash, you age, you can get married (if you like) or go to the brothel! The big feature of the game is that you can choose to be good or evil. This seems to be happening in a lot of games now — the actions you take during the game govern the way people around you react to your presence. If you're really nice they will cheer but if you're evil then they'll run and hide. Not only that but your appearance also changes over time — if you're really good then you'll end up with a halo over your head, if you're bad then you'll get devil horns! Of course I went for the good side but I might reload one of my save games and just be all out evil to see what it's like.
 
+{{< image src="/images/archive/mattous-blogous/fable.png" alt="Fable" position="center" style="border-radius: 8px;" >}}
+
+*My Character in Fable*
+
 > "We hung out at the rainbow where we drank til' half past two.
 > Nothing could go wrong anytime that I'm with you.
 > Like crashing a hotel room or leading up to that first kiss

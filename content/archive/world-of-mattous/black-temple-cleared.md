@@ -20,12 +20,14 @@ Side note: during our Illidan kill attempt, around 32%, my keyboard batteries di
 - Chestguard of the Forgotten Conqueror (x2)
 - Chestguard of the Forgotten Protector
 
-![Illidari Council defeated 12/08/08](/images/archive/world-of-mattous/illidari-council.jpg)
+{{< image src="/images/archive/world-of-mattous/illidari-council.png" alt="Illidari Council defeated 12/08/08" position="center" style="border-radius: 8px;" >}}
+
 *Illidari Council defeated 12/08/08*
 
-![Illidan kill screenshot 1](/images/archive/world-of-mattous/illidan-kill-1.jpg)
+{{< image src="/images/archive/world-of-mattous/illidan-kill-1.png" alt="Illidan kill screenshot 1" position="center" style="border-radius: 8px;" >}}
 
-![Illidan kill screenshot 2](/images/archive/world-of-mattous/illidan-kill-2.jpg)
+{{< image src="/images/archive/world-of-mattous/illidan-kill-2.png" alt="Illidan kill screenshot 2" position="center" style="border-radius: 8px;" >}}
 
-![Illidan Stormrage slain 19/08/08](/images/archive/world-of-mattous/illidan-slain.jpg)
+{{< image src="/images/archive/world-of-mattous/illidan-slain.png" alt="Illidan Stormrage slain 19/08/08" position="center" style="border-radius: 8px;" >}}
+
 *Illidan Stormrage slain 19/08/08*

@@ -11,3 +11,8 @@ Once a year the [CU](http://www.cu-at-teesside.co.uk/) goes away together for a 
 For the next 2 days we were in Newcastleton, just the other side of the Scottish borders, in a little place called [Whithaugh Park](http://www.barnabas.org.uk/wp-homepage.htm). I love the countryside and this place was awesome — miles from nowhere, no TV or internet, just 2 days full of Teaching, Worship and a game or two of Risk.
 
 The speaker we had with us was amazing. His name is Steve Braye and he had his son with him too. He's an ex-military guy who used to be in the SAS which would have been enough to keep me interested for a weekend but he has the most amazing testimony and his relationship with God really just shines out of him. The teaching was a mix of a lot of things which was actually really good because it just gave God a chance to do more in me. If only the weekend was longer! Now I have to process what went on there and it was a lot — choices, The way of the cross, sexuality, freedom in Christ and a whole bunch of other things. Let's just say God's doing a lot — way too much to talk about here — but I'm sure this isn't the last you'll hear of it.
+
+
+{{< image src="/images/archive/mattous-blogous/newcastleton.png" alt="Newcastleton" position="center" style="border-radius: 8px;" >}}
+
+*This is Newcastleton the somewhere in the background is the place we were staying at, Saturday afternoon a bunch of us walked into town though. I'll post some more pictures when I get them.*

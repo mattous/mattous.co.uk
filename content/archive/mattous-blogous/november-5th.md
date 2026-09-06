@@ -11,3 +11,5 @@ I realised today that I have a bit of a problem with this blog. I've got at leas
 Anyway it's November 5th today which means it's been like a warzone outside all night. Fireworks going off all over the place, thankfully we didn't get any through our letterbox, but it is still only 12:40 so I guess there's still a chance but lets hope not!
 
 Also... I keep getting sent these damned invitations to join peoples friends networks and to stop the spam once and for all I decided to join one. From what I can tell it is a spamfest inside too. I sign up to this thing and it's sent a load of invitations off to people asking them to join my network, people I'm sure I don't know. I'm beginning to think that it was a bad move! I think I'll just stick with the blogging.
+
+{{< image src="/images/archive/mattous-blogous/home.png" alt="Home" position="center" style="border-radius: 8px;" >}}
